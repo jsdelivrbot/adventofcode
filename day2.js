@@ -40,4 +40,4 @@ function ribbonNeeded(lwh) {
 	return (length + length + width + width) + (length * width * height);
 }
 
-console.log(totalRibbonNeeded);
+console.log(totalRibbonNeeded); //3783758, part 2
