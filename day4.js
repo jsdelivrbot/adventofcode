@@ -1,6 +1,6 @@
 //day 4 (http://adventofcode.com/day/4)
 
-//get md5 code from https://rawgit.com/emn178/js-md5/master/src/md5.js
+//get md5 code from https://cdn.jsdelivr.net/gh/emn178/js-md5@master/src/md5.js
 
 //part 1: find number that starts with 5 '0's
 var key = "bgvyzdsv";
